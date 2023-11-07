@@ -1,0 +1,11 @@
+/target/
+*.class
+.classpath
+.settings/
+.prefs
+*.project
+*.lst
+*.jar
+*.war
+*.MF
+target/
